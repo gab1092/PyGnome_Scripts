@@ -1,0 +1,9 @@
+NetCDF Files
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210101.nc
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210102.nc 
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210103.nc 
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210104.nc 
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210105.nc
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210106.nc
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210107.nc
+[FILE]:/media/gabriela/WDBlue_2/CIGOM/datos_NCOM3km/NCOM-GAMSEAS-DAILY-20210108.nc    
