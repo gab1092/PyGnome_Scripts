@@ -23,7 +23,7 @@ from gnome.outputters import NetCDFOutput
 from gnome.weatherers import Evaporation, NaturalDispersion, Emulsification, Biodegradation
 from gnome.environment import Water, Waves
 from gnome.movers import GridCurrentMover, GridWindMover
-from gnome.movers import Ran/media/gabriela/WDBlue_2/CIGOM/GNOME/Resultados/domMover, RandomMover3D
+from gnome.movers import RandomMover, RandomMover3D
 
  
 #%%
