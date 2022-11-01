@@ -76,7 +76,7 @@ model.movers += random_mover_3d
 release= gnome.spill.spill.surface_point_line_spill(substance='AD00730',
                                      amount=10000,num_elements=2000, units='bbls',
                                      release_time=start_time,
-                                     start_position=(-92.154299,19.378562,57),
+                                     start_position=(-92.154299,19.378562,0),
                                      end_release_time=start_time+timedelta(days=3))
 
 model.spills += release
